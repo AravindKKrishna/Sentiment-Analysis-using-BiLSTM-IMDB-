@@ -123,7 +123,7 @@ README.md
 
 Clone the repository
 
-git clone https://github.com/username/sentiment-analysis-bilstm.git
+git clone https://github.com/AravindKKrishna/sentiment-analysis-bilstm.git
 
 Navigate to project directory
 
